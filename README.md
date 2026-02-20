@@ -11,6 +11,7 @@ This repository provides the following REST API samples:
 + debug-sessions
 + index-json-blobs
 + knowledge-store
++ multimodal-tutorial
 + projections
 + skillset-tutorial
 
